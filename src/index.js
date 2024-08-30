@@ -4,7 +4,7 @@ const app = express()
 const PORT = 7000
 
 app.use(express.static(__dirname + "/public"))
-
+3
 const server = app.listen(PORT, () => {
   console.log(`Server ${PORT} portda ishga tushdi`)
 })
