@@ -68,3 +68,4 @@ socket.on("user-message-send", ({ name, text }) => {
 socket.on("user-count", ({ count }) => {
   countChat.textContent = `Foydalanuvchilar: ${count}`
 })
+
