@@ -1,4 +1,4 @@
-const socket = io("https://chat-s0ez.onrender.com/")
+const socket = io("https://chat-s0ez.onrender.com")
 let name = ""
 while (!name) {
   name = prompt("Ismingizni kiriting")
