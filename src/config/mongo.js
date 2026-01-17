@@ -6,6 +6,7 @@
 // authentication xatosi tuzatildi
 // environment variables sozlandi
 // caching mexanizmi qo'shildi
+// API endpoint testlari qo'shildi
 // dependencies yangilandi
 // integration testlar yaratildi
 // dependencies yangilandi
