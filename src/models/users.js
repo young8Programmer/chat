@@ -2,6 +2,7 @@
 // kod strukturasini yaxshilash
 // validation xatolari tuzatildi
 // database migrations yaratildi
+// database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
 // bundle size optimallashtirildi
