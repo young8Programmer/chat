@@ -7,6 +7,7 @@
 // package.json yangilandi
 const { Schema, model } = require('mongoose')
 // type error tuzatildi
+// API endpoints qo'shildi
 // bundle size optimallashtirildi
 
 const userSchema = new Schema({
