@@ -1,3 +1,4 @@
+// database testlari qo'shildi
 // API endpoints qo'shildi
 // bundle size optimallashtirildi
 const { Schema, model } = require('mongoose')
