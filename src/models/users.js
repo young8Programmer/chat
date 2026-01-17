@@ -1,5 +1,6 @@
 // bundle size optimallashtirildi
 const { Schema, model } = require('mongoose')
+// bundle size optimallashtirildi
 
 const userSchema = new Schema({
 // routing muammosi hal qilindi
