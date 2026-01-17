@@ -6,6 +6,7 @@ let name = ""
 while (!name) {
   name = prompt("Ismingizni kiriting")
 // kod uslubini yaxshilash
+// kod formatlash va indentatsiya
 }
 
 let chatMessages = document.querySelector(".chat-messages")
