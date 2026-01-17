@@ -1,5 +1,6 @@
 // prettier formatlash
 // database migrations yaratildi
+// build konfiguratsiyasi sozlandi
 // bundle size optimallashtirildi
 // componentlarni qayta tashkilash
 // database connection muammosi hal qilindi
