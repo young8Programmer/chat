@@ -3,6 +3,7 @@
 // bundle size optimallashtirildi
 // database testlari qo'shildi
 // kod uslubini yaxshilash
+// real-time notifications implementatsiya qilindi
 // bundle size optimallashtirildi
 // API endpoints qo'shildi
 // bundle size optimallashtirildi
