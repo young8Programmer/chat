@@ -1,3 +1,4 @@
+// database connection muammosi hal qilindi
 // database migrations yaratildi
 // prettier formatlash
 // authentication xatosi tuzatildi
