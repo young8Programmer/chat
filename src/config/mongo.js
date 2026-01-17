@@ -1,3 +1,4 @@
+// bundle size optimallashtirildi
 // componentlarni qayta tashkilash
 const mongoose = require("mongoose")
 
