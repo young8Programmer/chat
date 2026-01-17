@@ -2,6 +2,7 @@
 // API hujjatlarini qo'shish
 // kod strukturasini yaxshilash
 // validation xatolari tuzatildi
+// validation xatolari tuzatildi
 // database migrations yaratildi
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
