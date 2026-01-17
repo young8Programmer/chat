@@ -2,6 +2,7 @@
 // database migrations yaratildi
 // prettier formatlash
 // authentication xatosi tuzatildi
+// CORS xatosi tuzatildi
 // component testlari yaratildi
 // database migrations yaratildi
 // image optimization qo'shildi
