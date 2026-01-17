@@ -5,6 +5,7 @@ const socket = io("https://chat-s0ez.onrender.com")
 let name = ""
 // bundle size optimallashtirildi
 // integration testlar yaratildi
+// changelog yangilandi
 while (!name) {
 // changelog yangilandi
 // image optimization qo'shildi
