@@ -1,4 +1,5 @@
 // package.json yangilandi
+// environment variables sozlandi
 // database querylarni optimallashtirish
 // prettier formatlash
 // README faylini yangilash
