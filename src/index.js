@@ -1,6 +1,7 @@
 // environment variables sozlandi
 const express = require("express")
 // prettier formatlash
+// caching mexanizmi qo'shildi
 // database querylarni optimallashtirish
 // caching mexanizmi qo'shildi
 // shopping cart funksiyasi qo'shildi
