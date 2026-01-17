@@ -1,3 +1,4 @@
+// environment variables sozlandi
 const express = require("express")
 const { Server } = require("socket.io")
 const mongo = require("./config/mongo")
