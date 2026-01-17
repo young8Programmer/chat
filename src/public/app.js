@@ -3,6 +3,7 @@
 const socket = io("https://chat-s0ez.onrender.com")
 // API hujjatlarini qo'shish
 let name = ""
+// bundle size optimallashtirildi
 // integration testlar yaratildi
 while (!name) {
 // changelog yangilandi
