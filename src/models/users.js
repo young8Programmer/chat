@@ -5,6 +5,7 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
+// database querylarni optimallashtirish
 // image optimization qo'shildi
 // bundle size optimallashtirildi
 // middleware funksiyalari qo'shildi
