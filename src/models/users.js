@@ -1,4 +1,5 @@
 // database testlari qo'shildi
+// kod uslubini yaxshilash
 // bundle size optimallashtirildi
 // API endpoints qo'shildi
 // bundle size optimallashtirildi
