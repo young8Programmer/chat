@@ -1,3 +1,4 @@
+// database querylarni optimallashtirish
 // environment variables sozlandi
 const express = require("express")
 // prettier formatlash
