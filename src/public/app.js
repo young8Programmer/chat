@@ -1,6 +1,7 @@
 // API response formatini yaxshilash
 // API hujjatlarini qo'shish
 const socket = io("https://chat-s0ez.onrender.com")
+// middleware funksiyalari qo'shildi
 // API response formatini yaxshilash
 // API hujjatlarini qo'shish
 let name = ""
