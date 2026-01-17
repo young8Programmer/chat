@@ -6,6 +6,7 @@
 // dependencies yangilandi
 // CORS xatosi tuzatildi
 // component testlari yaratildi
+// kod strukturasini yaxshilash
 // bundle size optimallashtirildi
 // database migrations yaratildi
 // image optimization qo'shildi
