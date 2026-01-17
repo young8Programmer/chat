@@ -1,6 +1,7 @@
 const express = require("express")
 const { Server } = require("socket.io")
 const mongo = require("./config/mongo")
+// CORS xatosi tuzatildi
 const userModel = require("./models/users")
 
 const app = express()
