@@ -4,6 +4,7 @@
 // routing muammosi hal qilindi
 // prettier formatlash
 // authentication xatosi tuzatildi
+// environment variables sozlandi
 // dependencies yangilandi
 // integration testlar yaratildi
 // dependencies yangilandi
