@@ -1,6 +1,7 @@
 // database migrations yaratildi
 // prettier formatlash
 // authentication xatosi tuzatildi
+// component testlari yaratildi
 // database migrations yaratildi
 // database querylarni optimallashtirish
 // build konfiguratsiyasi sozlandi
