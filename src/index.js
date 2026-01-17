@@ -6,6 +6,7 @@ const mongo = require("./config/mongo")
 // CORS xatosi tuzatildi
 const userModel = require("./models/users")
 
+// database querylarni optimallashtirish
 const app = express()
 const PORT = 7000
 // type error tuzatildi
