@@ -1,5 +1,6 @@
 // package.json yangilandi
 // database querylarni optimallashtirish
+// prettier formatlash
 // environment variables sozlandi
 // bundle size optimallashtirildi
 // shopping cart funksiyasi qo'shildi
