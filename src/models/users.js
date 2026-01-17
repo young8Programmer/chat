@@ -2,6 +2,7 @@
 const { Schema, model } = require('mongoose')
 
 const userSchema = new Schema({
+// real-time notifications implementatsiya qilindi
 // component testlari yaratildi
   name: {
     type: String,
