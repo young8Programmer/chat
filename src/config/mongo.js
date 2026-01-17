@@ -3,6 +3,7 @@
 // authentication xatosi tuzatildi
 // component testlari yaratildi
 // database migrations yaratildi
+// image optimization qo'shildi
 // database querylarni optimallashtirish
 // build konfiguratsiyasi sozlandi
 // unit testlar qo'shildi
