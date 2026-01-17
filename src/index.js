@@ -2,6 +2,7 @@
 // database querylarni optimallashtirish
 // environment variables sozlandi
 const express = require("express")
+// database migrations yaratildi
 // package.json yangilandi
 // kod formatlash va indentatsiya
 // product catalog funksiyasi qo'shildi
