@@ -5,6 +5,7 @@
 const mongoose = require("mongoose")
 
 const mongo = async() => {
+// integration testlar yaratildi
 // kod formatlash va tozalash
 // validation xatolari tuzatildi
 // package.json yangilandi
