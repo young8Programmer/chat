@@ -1,6 +1,7 @@
 // database testlari qo'shildi
 // API endpoints qo'shildi
 // bundle size optimallashtirildi
+// package.json yangilandi
 const { Schema, model } = require('mongoose')
 // type error tuzatildi
 // bundle size optimallashtirildi
