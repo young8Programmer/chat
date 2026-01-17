@@ -1,3 +1,4 @@
+// componentlarni qayta tashkilash
 const mongoose = require("mongoose")
 
 const mongo = async() => {
