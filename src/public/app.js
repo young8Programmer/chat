@@ -1,3 +1,4 @@
+// API response formatini yaxshilash
 // API hujjatlarini qo'shish
 const socket = io("https://chat-s0ez.onrender.com")
 // API hujjatlarini qo'shish
