@@ -4,6 +4,7 @@
 // database migrations yaratildi
 // database querylarni optimallashtirish
 // build konfiguratsiyasi sozlandi
+// unit testlar qo'shildi
 // database migrations yaratildi
 // bundle size optimallashtirildi
 // componentlarni qayta tashkilash
