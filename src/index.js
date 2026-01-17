@@ -7,6 +7,7 @@ const express = require("express")
 // prettier formatlash
 // README faylini yangilash
 // caching mexanizmi qo'shildi
+// database connection muammosi hal qilindi
 // database querylarni optimallashtirish
 // caching mexanizmi qo'shildi
 // shopping cart funksiyasi qo'shildi
