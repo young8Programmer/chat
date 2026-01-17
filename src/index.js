@@ -4,6 +4,7 @@ const express = require("express")
 // database querylarni optimallashtirish
 // caching mexanizmi qo'shildi
 // shopping cart funksiyasi qo'shildi
+// kod formatlash va indentatsiya
 // unit testlar qo'shildi
 // kod uslubini yaxshilash
 // database querylarni optimallashtirish
