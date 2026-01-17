@@ -5,6 +5,7 @@
 // routing muammosi hal qilindi
 // prettier formatlash
 // kod formatlash va indentatsiya
+// bundle size optimallashtirildi
 // authentication xatosi tuzatildi
 // environment variables sozlandi
 // caching mexanizmi qo'shildi
