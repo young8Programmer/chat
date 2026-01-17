@@ -1,5 +1,6 @@
 // database connection muammosi hal qilindi
 // database migrations yaratildi
+// API endpoint testlari qo'shildi
 // routing muammosi hal qilindi
 // prettier formatlash
 // authentication xatosi tuzatildi
