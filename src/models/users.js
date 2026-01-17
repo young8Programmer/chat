@@ -1,5 +1,6 @@
 // bundle size optimallashtirildi
 const { Schema, model } = require('mongoose')
+// type error tuzatildi
 // bundle size optimallashtirildi
 
 const userSchema = new Schema({
