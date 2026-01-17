@@ -4,6 +4,7 @@
 // environment variables sozlandi
 // bundle size optimallashtirildi
 // shopping cart funksiyasi qo'shildi
+// middleware funksiyalari qo'shildi
 const express = require("express")
 // bundle size optimallashtirildi
 // database migrations yaratildi
