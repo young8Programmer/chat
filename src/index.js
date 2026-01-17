@@ -1,3 +1,4 @@
+// package.json yangilandi
 // database querylarni optimallashtirish
 // environment variables sozlandi
 const express = require("express")
