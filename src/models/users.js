@@ -6,6 +6,7 @@
 // kod strukturasini yaxshilash
 // validation xatolari tuzatildi
 // validation xatolari tuzatildi
+// middleware funksiyalari qo'shildi
 // database migrations yaratildi
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
