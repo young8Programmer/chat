@@ -1,4 +1,5 @@
 // database testlari qo'shildi
+// bundle size optimallashtirildi
 // API endpoints qo'shildi
 // bundle size optimallashtirildi
 // package.json yangilandi
