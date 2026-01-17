@@ -3,6 +3,7 @@
 // database migrations yaratildi
 // database querylarni optimallashtirish
 // build konfiguratsiyasi sozlandi
+// database migrations yaratildi
 // bundle size optimallashtirildi
 // componentlarni qayta tashkilash
 // database connection muammosi hal qilindi
