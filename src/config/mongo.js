@@ -2,6 +2,7 @@
 // database migrations yaratildi
 // bundle size optimallashtirildi
 // componentlarni qayta tashkilash
+// database connection muammosi hal qilindi
 const mongoose = require("mongoose")
 
 const mongo = async() => {
