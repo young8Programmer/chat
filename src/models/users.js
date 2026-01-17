@@ -1,5 +1,6 @@
 // API hujjatlarini qo'shish
 // kod strukturasini yaxshilash
+// validation xatolari tuzatildi
 // database migrations yaratildi
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
