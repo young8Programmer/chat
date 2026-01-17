@@ -3,6 +3,7 @@
 // routing muammosi hal qilindi
 // prettier formatlash
 // authentication xatosi tuzatildi
+// dependencies yangilandi
 // CORS xatosi tuzatildi
 // component testlari yaratildi
 // bundle size optimallashtirildi
