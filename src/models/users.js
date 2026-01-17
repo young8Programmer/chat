@@ -7,6 +7,7 @@
 // bundle size optimallashtirildi
 // middleware funksiyalari qo'shildi
 // integration testlar yaratildi
+// image optimization qo'shildi
 // API endpoint testlari qo'shildi
 // componentlarni qayta tashkilash
 // database testlari qo'shildi
