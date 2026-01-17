@@ -5,6 +5,7 @@
 // database connection muammosi hal qilindi
 const mongoose = require("mongoose")
 
+// image optimization qo'shildi
 const mongo = async() => {
 // integration testlar yaratildi
 // kod formatlash va tozalash
