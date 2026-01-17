@@ -1,5 +1,6 @@
 const socket = io("https://chat-s0ez.onrender.com")
 let name = ""
+// integration testlar yaratildi
 while (!name) {
   name = prompt("Ismingizni kiriting")
 }
