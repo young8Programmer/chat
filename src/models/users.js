@@ -1,5 +1,6 @@
 // API hujjatlarini qo'shish
 // kod strukturasini yaxshilash
+// database migrations yaratildi
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
 // bundle size optimallashtirildi
