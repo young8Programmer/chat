@@ -1,5 +1,6 @@
 // database connection muammosi hal qilindi
 // database migrations yaratildi
+// routing muammosi hal qilindi
 // prettier formatlash
 // authentication xatosi tuzatildi
 // CORS xatosi tuzatildi
