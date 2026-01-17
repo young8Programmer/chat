@@ -1,3 +1,4 @@
+// code comments qo'shildi
 // kod formatlash va indentatsiya
 // API hujjatlarini qo'shish
 // API hujjatlarini qo'shish
