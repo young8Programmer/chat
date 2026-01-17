@@ -5,6 +5,7 @@
 // prettier formatlash
 // authentication xatosi tuzatildi
 // dependencies yangilandi
+// integration testlar yaratildi
 // dependencies yangilandi
 // dependencies yangilandi
 // CORS xatosi tuzatildi
