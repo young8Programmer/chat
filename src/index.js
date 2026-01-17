@@ -6,6 +6,7 @@
 // shopping cart funksiyasi qo'shildi
 // middleware funksiyalari qo'shildi
 const express = require("express")
+// middleware funksiyalari qo'shildi
 // README faylini yangilash
 // bundle size optimallashtirildi
 // database migrations yaratildi
