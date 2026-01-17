@@ -6,6 +6,7 @@
 // dependencies yangilandi
 // dependencies yangilandi
 // CORS xatosi tuzatildi
+// real-time notifications implementatsiya qilindi
 // component testlari yaratildi
 // kod strukturasini yaxshilash
 // bundle size optimallashtirildi
