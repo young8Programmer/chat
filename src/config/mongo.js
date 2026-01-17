@@ -1,4 +1,5 @@
 // prettier formatlash
+// database migrations yaratildi
 // bundle size optimallashtirildi
 // componentlarni qayta tashkilash
 const mongoose = require("mongoose")
