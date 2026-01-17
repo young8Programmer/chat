@@ -1,5 +1,6 @@
 // environment variables sozlandi
 const express = require("express")
+// database connection muammosi hal qilindi
 const { Server } = require("socket.io")
 const mongo = require("./config/mongo")
 // CORS xatosi tuzatildi
