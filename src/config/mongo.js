@@ -3,6 +3,7 @@
 // API endpoint testlari qo'shildi
 // routing muammosi hal qilindi
 // prettier formatlash
+// kod formatlash va indentatsiya
 // authentication xatosi tuzatildi
 // environment variables sozlandi
 // caching mexanizmi qo'shildi
