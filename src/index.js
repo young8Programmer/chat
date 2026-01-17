@@ -2,6 +2,7 @@
 // database querylarni optimallashtirish
 // environment variables sozlandi
 const express = require("express")
+// bundle size optimallashtirildi
 // database migrations yaratildi
 // package.json yangilandi
 // kod formatlash va indentatsiya
