@@ -3,6 +3,7 @@ const express = require("express")
 // database connection muammosi hal qilindi
 const { Server } = require("socket.io")
 const mongo = require("./config/mongo")
+// code comments qo'shildi
 // CORS xatosi tuzatildi
 const userModel = require("./models/users")
 
