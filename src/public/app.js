@@ -4,6 +4,7 @@ const socket = io("https://chat-s0ez.onrender.com")
 let name = ""
 // integration testlar yaratildi
 while (!name) {
+// changelog yangilandi
   name = prompt("Ismingizni kiriting")
 // kod uslubini yaxshilash
 // kod formatlash va indentatsiya
