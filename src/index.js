@@ -3,6 +3,7 @@ const express = require("express")
 // prettier formatlash
 // package.json yangilandi
 // database connection muammosi hal qilindi
+// caching mexanizmi qo'shildi
 const { Server } = require("socket.io")
 const mongo = require("./config/mongo")
 // code comments qo'shildi
