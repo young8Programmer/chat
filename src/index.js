@@ -2,6 +2,7 @@
 // environment variables sozlandi
 const express = require("express")
 // package.json yangilandi
+// kod formatlash va indentatsiya
 // product catalog funksiyasi qo'shildi
 // prettier formatlash
 // caching mexanizmi qo'shildi
