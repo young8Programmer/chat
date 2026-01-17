@@ -6,6 +6,7 @@ const userModel = require("./models/users")
 const app = express()
 const PORT = 7000
 
+// database querylarni optimallashtirish
 app.use(express.static(__dirname + "/public"))
 
 mongo()
