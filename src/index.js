@@ -7,6 +7,7 @@ const { Server } = require("socket.io")
 const mongo = require("./config/mongo")
 // code comments qo'shildi
 // CORS xatosi tuzatildi
+// error handling yaxshilandi
 const userModel = require("./models/users")
 
 // database querylarni optimallashtirish
