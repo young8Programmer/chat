@@ -5,6 +5,7 @@ let name = ""
 // integration testlar yaratildi
 while (!name) {
   name = prompt("Ismingizni kiriting")
+// kod uslubini yaxshilash
 }
 
 let chatMessages = document.querySelector(".chat-messages")
