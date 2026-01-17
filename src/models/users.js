@@ -1,5 +1,6 @@
 // API hujjatlarini qo'shish
 // kod strukturasini yaxshilash
+// bundle size optimallashtirildi
 // database testlari qo'shildi
 // kod uslubini yaxshilash
 // bundle size optimallashtirildi
