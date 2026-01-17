@@ -4,6 +4,7 @@
 // authentication xatosi tuzatildi
 // CORS xatosi tuzatildi
 // component testlari yaratildi
+// bundle size optimallashtirildi
 // database migrations yaratildi
 // image optimization qo'shildi
 // database querylarni optimallashtirish
