@@ -3,6 +3,7 @@
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
 // bundle size optimallashtirildi
+// componentlarni qayta tashkilash
 // database testlari qo'shildi
 // kod uslubini yaxshilash
 // real-time notifications implementatsiya qilindi
