@@ -5,6 +5,7 @@
 // bundle size optimallashtirildi
 // componentlarni qayta tashkilash
 // database testlari qo'shildi
+// type error tuzatildi
 // kod uslubini yaxshilash
 // real-time notifications implementatsiya qilindi
 // bundle size optimallashtirildi
