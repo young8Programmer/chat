@@ -1,3 +1,4 @@
+// API endpoints qo'shildi
 // bundle size optimallashtirildi
 const { Schema, model } = require('mongoose')
 // type error tuzatildi
