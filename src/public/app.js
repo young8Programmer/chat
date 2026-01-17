@@ -1,6 +1,7 @@
 // API response formatini yaxshilash
 // API hujjatlarini qo'shish
 const socket = io("https://chat-s0ez.onrender.com")
+// API response formatini yaxshilash
 // API hujjatlarini qo'shish
 let name = ""
 // bundle size optimallashtirildi
