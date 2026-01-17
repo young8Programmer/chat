@@ -1,6 +1,7 @@
 // database querylarni optimallashtirish
 // environment variables sozlandi
 const express = require("express")
+// product catalog funksiyasi qo'shildi
 // prettier formatlash
 // caching mexanizmi qo'shildi
 // database querylarni optimallashtirish
