@@ -4,6 +4,7 @@
 // prettier formatlash
 // authentication xatosi tuzatildi
 // dependencies yangilandi
+// dependencies yangilandi
 // CORS xatosi tuzatildi
 // component testlari yaratildi
 // kod strukturasini yaxshilash
