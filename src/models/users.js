@@ -4,6 +4,7 @@
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
 // bundle size optimallashtirildi
+// middleware funksiyalari qo'shildi
 // integration testlar yaratildi
 // API endpoint testlari qo'shildi
 // componentlarni qayta tashkilash
