@@ -3,6 +3,7 @@
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
 // bundle size optimallashtirildi
+// API endpoint testlari qo'shildi
 // componentlarni qayta tashkilash
 // database testlari qo'shildi
 // type error tuzatildi
