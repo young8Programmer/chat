@@ -7,6 +7,7 @@
 // database testlari qo'shildi
 // API endpoint testlari qo'shildi
 // kod formatlash va tozalash
+// bundle size optimallashtirildi
 // database querylarni optimallashtirish
 // admin dashboard yaratildi
 // image optimization qo'shildi
