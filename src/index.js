@@ -5,6 +5,7 @@ const express = require("express")
 // kod formatlash va indentatsiya
 // product catalog funksiyasi qo'shildi
 // prettier formatlash
+// README faylini yangilash
 // caching mexanizmi qo'shildi
 // database querylarni optimallashtirish
 // caching mexanizmi qo'shildi
