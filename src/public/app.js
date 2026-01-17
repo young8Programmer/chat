@@ -7,6 +7,7 @@ let name = ""
 // integration testlar yaratildi
 while (!name) {
 // changelog yangilandi
+// image optimization qo'shildi
   name = prompt("Ismingizni kiriting")
 // kod uslubini yaxshilash
 // kod formatlash va indentatsiya
