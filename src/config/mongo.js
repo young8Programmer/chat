@@ -1,3 +1,4 @@
+// database migrations yaratildi
 // prettier formatlash
 // database migrations yaratildi
 // database querylarni optimallashtirish
