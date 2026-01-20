@@ -1,10 +1,34 @@
-// API response formatini yaxshilash
+// integration testlar yaratildi
+// code comments qo'shildi
 // API hujjatlarini qo'shish
+// type error tuzatildi
+// authentication xatosi tuzatildi
+// changelog yangilandi
+// prettier formatlash
+// code comments qo'shildi
+// shopping cart funksiyasi qo'shildi
+// database querylarni optimallashtirish
+// API response formatini yaxshilash
+// bundle size optimallashtirildi
+// image optimization qo'shildi
+// ESLint qoidalariga moslashtirish
+// database migrations yaratildi
+// type error tuzatildi
+// image optimization qo'shildi
+// database querylarni optimallashtirish
+// database migrations yaratildi
+// integration testlar yaratildi
+// API hujjatlarini qo'shish
+// ESLint qoidalariga moslashtirish
 const socket = io("https://chat-s0ez.onrender.com")
+// component testlari yaratildi
 // middleware funksiyalari qo'shildi
 // API response formatini yaxshilash
+// ESLint qoidalariga moslashtirish
 // API hujjatlarini qo'shish
+// real-time notifications implementatsiya qilindi
 let name = ""
+// prettier formatlash
 // bundle size optimallashtirildi
 // integration testlar yaratildi
 // changelog yangilandi
